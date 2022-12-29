@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+color: white;
+}
+h1{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 40%;
+    margin-left:75px;
+   margin-top: 90px;
+}
+p{
+    font-size: 30px;
+    text-align:left;
+    max-width: 40%;
+    margin-left: 800px;
+    margin-top: -300px;
+}
+#image{
+width: 900px;
+margin-top: 125px;
+
+    
+}
